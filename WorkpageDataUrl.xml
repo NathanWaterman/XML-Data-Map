@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xml:base="https://share.***.com/sites/TechM/tmsitedev/_vti_bin/ListData.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">TechM</title>
+  <id>https://share.***.com/sites/TechM/tmsitedev/_vti_bin/ListData.svc/TechMPages</id>
+  <updated>2016-03-15T20:52:35Z</updated>
+  <link rel="self" title="TechMPages" href="TechMPages" />
+  <entry m:etag="W/&quot;10&quot;">
+    <id>https://share.***.com/sites/TechM/tmsitedev/_vti_bin/ListData.svc/TechMPages(3)</id>
+    <title type="text">WORK</title>
+    <updated>2016-03-14T15:24:00-05:00</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="TechMPagesItem" href="TechMPages(3)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentPage" type="application/atom+xml;type=entry" title="ParentPage" href="TechMPages(3)/ParentPage" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DisplayOrder" type="application/atom+xml;type=entry" title="DisplayOrder" href="TechMPages(3)/DisplayOrder" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CreatedBy" type="application/atom+xml;type=entry" title="CreatedBy" href="TechMPages(3)/CreatedBy" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="TechMPages(3)/ModifiedBy" />
+    <category term="Microsoft.SharePoint.DataService.TechMPagesItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>WORK</d:Title>
+        <d:TitleDescription>&lt;div class="ExternalClass15A0282AC4E14B758B60DF6190F71B22"&gt;In FY17, the top priorities for TechM are centered around driving recognizable value from the accelerator investment funding, pushing knowledge to drive evergreen domains and building a single view of the way our division operates to allow transformational change.&lt;/div&gt;</d:TitleDescription>
+        <d:ParentPageId m:type="Edm.Int32" m:null="true" />
+        <d:PageLink m:null="true" />
+        <d:PageSummary m:null="true" />
+        <d:DisplayOrderValue m:null="true" />
+        <d:SectionTitleB m:null="true" />
+        <d:SectionDescriptionB m:null="true" />
+        <d:SectionTitleC m:null="true" />
+        <d:SectionDescriptionC m:null="true" />
+        <d:SectionCLink m:null="true" />
+        <d:SectionTitleD m:null="true" />
+        <d:SectionDescriptionD m:null="true" />
+        <d:SectionTitleE>Section E</d:SectionTitleE>
+        <d:SectionDescriptionE>&lt;div class="ExternalClassB9A08411A19A441CB05ACAC88DDBD315"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. &lt;b&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/b&gt;. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.</d:SectionDescriptionE>
+        <d:SectionTitleF>Section F</d:SectionTitleF>
+        <d:SectionDescriptionF>&lt;div class="ExternalClassB9A08411A19A441CB05ACAC88DDBD315"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. &lt;b&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/b&gt;. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.</d:SectionDescriptionF>
+        <d:ContentTypeID>0x0100410DAF183C1ABC44B4EE6C7607179140</d:ContentTypeID>
+        <d:Id m:type="Edm.Int32">3</d:Id>
+        <d:ContentType>Item</d:ContentType>
+        <d:Modified m:type="Edm.DateTime">2016-03-14T15:24:00</d:Modified>
+        <d:Created m:type="Edm.DateTime">2016-03-01T14:14:09</d:Created>
+        <d:CreatedById m:type="Edm.Int32">1654</d:CreatedById>
+        <d:ModifiedById m:type="Edm.Int32">1508</d:ModifiedById>
+        <d:Owshiddenversion m:type="Edm.Int32">10</d:Owshiddenversion>
+        <d:Version>1.0</d:Version>
+        <d:Path>/sites/TechM/tmsitedev/Lists/TechMPages</d:Path>
+      </m:properties>
+    </content>
+  </entry>
+</feed>
